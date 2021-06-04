@@ -17,5 +17,5 @@ Foi criado uma aplicação em angular, html, css, bootstrap. Por meio da aplica�
 </p> 
 
 <p align="center">
-  <img src="https://github.com/Jeffconexion/Introducao_EFcore/blob/main/introducaoEFcore.gif" />
+  <img src="https://github.com/Jeffconexion/AppTodo/blob/main/todoap" />
 </p>
